@@ -3,7 +3,7 @@
     <title>居米的旅遊網站</title>
     <link href="https://jimmylikeapple123123.github.io/JimmyTravel/feed.xml" rel="self" />
     <link href="https://jimmylikeapple123123.github.io/JimmyTravel" />
-    <updated>2023-10-09T17:02:03+08:00</updated>
+    <updated>2023-10-09T17:03:42+08:00</updated>
     <author>
         <name>居米</name>
     </author>
@@ -16,8 +16,10 @@
         </author>
         <link href="https://jimmylikeapple123123.github.io/JimmyTravel/da-ban-shao-quan-gong-lue.html"/>
         <id>https://jimmylikeapple123123.github.io/JimmyTravel/da-ban-shao-quan-gong-lue.html</id>
+            <category term="日本"/>
+            <category term="旅遊攻略"/>
 
-        <updated>2023-10-09T17:02:03+08:00</updated>
+        <updated>2023-10-09T17:03:42+08:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -29,8 +31,9 @@
         <link href="https://jimmylikeapple123123.github.io/JimmyTravel/japen_10day.html"/>
         <id>https://jimmylikeapple123123.github.io/JimmyTravel/japen_10day.html</id>
         <media:content url="https://jimmylikeapple123123.github.io/JimmyTravel/media/posts/1/pexels-charles-postiaux-2752037.jpg" medium="image" />
+            <category term="日本"/>
 
-        <updated>2023-10-09T17:00:32+08:00</updated>
+        <updated>2023-10-09T17:03:33+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://jimmylikeapple123123.github.io/JimmyTravel/media/posts/1/pexels-charles-postiaux-2752037.jpg" alt="日本旅遊全攻略" />
