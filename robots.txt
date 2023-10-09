@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jimmylikeapple123123.github.io/JimmyTravel/sitemap.xml

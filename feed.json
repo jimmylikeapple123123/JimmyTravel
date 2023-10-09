@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "居米的旅遊網站",
+    "description": "",
+    "home_page_url": "https://jimmylikeapple123123.github.io/JimmyTravel",
+    "feed_url": "https://jimmylikeapple123123.github.io/JimmyTravel/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "居米"
+    },
+    "items": [
+    ]
+}
